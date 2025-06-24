@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
  <div>
-   <a href="https://github.com/diegobomgamer">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegobomgamer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobomgamer&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/dsMuniz">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsMuniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsMuniz&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
